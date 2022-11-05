@@ -14,7 +14,7 @@
 <hr>
 
 <h2 align="center" color="white">Projects I Have Worked On</h2>
-/*<div align="center">
+<!--/*<div align="center">
 	<table>
 		<tr>
 		<td width="40%">
