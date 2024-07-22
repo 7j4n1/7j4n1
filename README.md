@@ -1,18 +1,25 @@
-<h1 align="center"> Hi There, I'm 7J4N1 <!--<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px">--></h1>
+# Hello! and Welcome 👋 
+*A software engineer, He loves people, nature, and growth😄. He thrives in a collaborative environment where teamwork is valued.*
 
+- 🤔 He is open to opportunities and looking to collaborate on Asp.Net Core, and Laravel Project
+- 📫 How to reach him: [Personal Website](<strikethrough>https://www.aholy-tech.dev</strikethrough>) :|: [Twitter](https://twitter.com/7j4n11) :|:  [LinkedIn](https://www.linkedin.com/in/aholy01/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: He loves being around his laptop.
+-  🌱 Hobbies: Watching TV series and intuitive programs like Dragon's Den.
 
-- 🎓 I am currently working as a freelancer on Fiverr and learning to improve my skills.
-- 💬 **PHP and C#?** yeah that's my thing.
-- 📫 Building Apis using **Laravel** or **Asp.Net Core** 
-- 🧙🏽‍♂️ And I'm on the path to becoming a better backend engineer 🧙🏽‍♂️
+## Skills and Tools
 
-- 📫 How to reach me **ahmaholy@gmail.com;ahmaddawud799@yahoo.com**
+```sh
+Language = [ C#, PHP ]
 
-- ⚡ Fun fact **I Love making research about mysticism, theurgy and relaxing**
+Backend = [ Laravel,  Asp.Net Core ]
 
-<hr>
+Frontend = [ Laravel Blade, Tailwind, Bootstrap, JQuery ]
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aholy01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aholy01/" height="30" width="40" /></a>
-</p>
+Tools = [ Git, Docker, Linux]
+
+Collaboration = [ Jira, Linear ]
+
+```
+
+Feel free to reach out to him if you have any questions, or collaboration opportunities, or just want to chat.
