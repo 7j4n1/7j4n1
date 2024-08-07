@@ -4,8 +4,6 @@
 - 🤔 He is open to opportunities and looking to collaborate on Asp.Net Core, and Laravel Project
 - 📫 How to reach him: [Personal Website](<strikethrough>https://www.aholy-tech.dev</strikethrough>) :|: [Twitter](https://twitter.com/7j4n11) :|:  [LinkedIn](https://www.linkedin.com/in/aholy01/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: He loves being around his laptop.
--  🌱 Hobbies: Watching TV series and intuitive programs like Dragon's Den.
 
 ## Skills and Tools
 
